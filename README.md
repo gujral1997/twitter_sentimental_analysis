@@ -48,8 +48,8 @@ Run `json2csv -i input_file.json -f text -o output_file.csv` in your teminal to 
 
 1. Rename `non_tech_pred.csv` in `model.py` to your own csv filename.
 2. Copy `model.pkl` in root directory of the project.
-3. Run model.py
-<br> <b>Note: </b> Use python2 to run the above script.
+3. Run `model.py`
+<br> <b>Note: </b> Use python2 to run the above script and your working directory should be root directory of the project.
 
 
 
